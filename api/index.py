@@ -2,8 +2,10 @@ import os
 import random
 
 from flask import Flask, request
+from flask_cors import CORS
 
 app = Flask(__name__, static_folder=None)
+CORS(app)
 expansions_txt = os.path.join(os.path.dirname(app.root_path), "expansions.txt")
 with open(expansions_txt, "r") as f:
     CHOICES = list(filter(None, f.read().splitlines()))
