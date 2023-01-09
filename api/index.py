@@ -16,5 +16,5 @@ def random_name():
 
 @app.get("/api/sample")
 def random_sample():
-    k = min(request.args.get("k", 7), len(CHOICES))
+    k = min(int(request.args.get("k", 7)), len(CHOICES))
     return {"code": 0, "message": "success", "data": random.sample(CHOICES, k)}
