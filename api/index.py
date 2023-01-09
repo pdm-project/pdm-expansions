@@ -2,7 +2,7 @@ from flask import g, request, Flask
 import random
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder=None)
 expansions_txt = os.path.join(os.path.dirname(app.root_path), "expansions.txt")
 
 
