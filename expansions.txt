@@ -13,7 +13,7 @@ Polar Dinosaurs Museum
 Potentially Deadly Monster
 Professionals Don't Mock
 Probably Doesn't Matter
-Purple Dynasour Matters
+Purple Dinosaur Matters
 pyproject.toml doesn't matter
 Python Development Master
 Python Dependency Manager
