@@ -5,15 +5,16 @@ Party Dancing Master
 Penguins Don't Mourn
 Pineapple Donut Maker
 Pink Dancing Man
+Pizza Delivery Man
 Plain Data Matters
 Please, Dear Mom!
 Please, Don't Miss
 Please Download Me
 Polar Dinosaurs Museum
 Potentially Deadly Monster
+Professional Database Manager
 Professionals Don't Mock
 Probably Doesn't Matter
-Purple Dinosaur Matters
 pyproject.toml doesn't matter
 Python Development Master
 Python Dependency Manager
