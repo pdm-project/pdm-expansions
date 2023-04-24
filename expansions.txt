@@ -20,4 +20,5 @@ Probably Doesn't Matter
 pyproject.toml doesn't matter
 Python Development Master
 Python Dependency Manager
+Python Does Miracles
 Pythonic Dungeon Master
