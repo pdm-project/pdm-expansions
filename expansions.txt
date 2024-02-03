@@ -45,6 +45,7 @@ Professional Decorating Markup
 Professionals Don't Mock
 Pugilistic Doorway Monitor
 Pyrrhic Deflection Method
+Python Danager Mackage
 Python Development Master
 Pythonic Dungeon Master
 pyproject.toml doesn't matter
