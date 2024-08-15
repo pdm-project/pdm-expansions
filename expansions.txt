@@ -47,5 +47,6 @@ Professionals Don't Mock
 Pugilistic Doorway Monitor
 Pyrrhic Deflection Method
 Python Development Master
+Python's Daring Moves
 Pythonic Dungeon Master
 pyproject.toml doesn't matter

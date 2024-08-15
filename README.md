@@ -4,7 +4,7 @@ What does PDM stand for?
 
 ## What is this?
 
-This repo is a collection of serious or silly full names of PDM that will randomly appear in the header of https://pdm.fming.dev
+This repo is a collection of serious or silly full names of PDM that will randomly appear in the header of https://pdm-project.org
 
 ## How to contribute?
 
