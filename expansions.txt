@@ -17,6 +17,8 @@ Personal Doomsday Machine
 Pineapple Donut Maker
 Pink Dancing Man
 Pip Dip Moray
+Pip Does Matter
+Pip Doesn't Matter
 Pithy Description Maker
 Pizza Delivery Man
 Placated Defense Minister
@@ -27,6 +29,7 @@ Please, Dear Mom!
 Please, Don't Miss
 Plucky Duck Masquerade
 Polar Dinosaurs Museum
+Pork Dumplings Momos
 Portable Distraction Machine
 Portly Diamond Merchant
 Possibly Dark Matter
@@ -38,13 +41,20 @@ Powerful Demonology Mantra
 Preposterously Daft Motor
 Presumptuously Dapper Mallet
 Pretty Darn Mesmerizing
+Pretty Decent Macaroni
 Primary Decision Maker
+Probabilistic Decompilation Methodology
+Probabilistic Deconstruction Methodology
 Probably Dark Magic
+Probably Definitely Maybe
 Probably Doesn't Matter
 Professional Database Manager
 Professional Decorating Markup
 Professionals Don't Mock
+Protein DNA Molecule
+Publicly Displayed Meme
 Pugilistic Doorway Monitor
+PyPI DDoS Manager
 Pyrrhic Deflection Method
 Python Development Master
 Python's Daring Moves
