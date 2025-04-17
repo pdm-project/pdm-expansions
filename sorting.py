@@ -1,4 +1,5 @@
 from typing import List, Tuple
+
 from pypinyin import lazy_pinyin
 
 expansions_text: List[str] = ["expansions.txt", "expansions-zh.txt"]
