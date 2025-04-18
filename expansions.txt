@@ -45,8 +45,8 @@ Professional Database Manager
 Professional Decorating Markup
 Professionals Don't Mock
 Pugilistic Doorway Monitor
+pyproject.toml doesn't matter
 Pyrrhic Deflection Method
 Python Development Master
 Python's Daring Moves
 Pythonic Dungeon Master
-pyproject.toml doesn't matter
